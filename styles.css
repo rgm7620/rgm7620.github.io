@@ -1,0 +1,15 @@
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Staatliches', cursive;
+}
+
+img{
+    max-width: 1600px;
+    max-height: 1200px;
+}
+
+#image{
+    display: flex;
+    justify-content: center;
+}
